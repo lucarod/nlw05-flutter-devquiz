@@ -1,6 +1,8 @@
 # devquiz
 
-A new Flutter project.
+I've made this project during Next Level Week #05, an event promoted by Rocketseat to help developers get to the next level
+
+The project follows the all the lessons, but is missing a few features that I'll try to implement if I have the time 
 
 ## Getting Started
 
