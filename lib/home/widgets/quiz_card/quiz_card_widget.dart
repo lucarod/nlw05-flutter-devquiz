@@ -34,6 +34,7 @@ class QuizCardWidget extends StatelessWidget {
             Container(
               height: 40,
               width: 40,
+              //TODO: Criar seleção de imagem via string.
               child: Image.asset(AppImages.blocks),
             ),
             SizedBox(height: 20),
